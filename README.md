@@ -1,5 +1,5 @@
 # CP3402-G-group
-Contributor: Deqian He, Yangyu Gao, Qiushi Han, Yubo Han, Chingche Lin, ZIhao Chen.
+Contributor: Deqian He, Yangyu Gao, Qiushi Han, Yubo Han, Ching-Che Lin, ZIhao Chen.
 
 Overview
 The website was built and is maintained by our team using WordPress. We communicate through WeChat and use GitHub to upload our projects. Trello is used for project management.
